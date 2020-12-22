@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Forum.Domain.Accounts
+﻿namespace Forum.Domain.Accounts
 {
     /// <summary>
     /// 账号索引聚合根，只包含账号ID和账号名称，用于支持账号名称的唯一性

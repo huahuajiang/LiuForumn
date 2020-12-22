@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5P4oT9WtuvSDDFoHl2k8St/PUyieDiKKGJ2ks/YRNd2DtkDEoytYUCmU9wSMc8E6K6y/CFusBe0nJTvsLz8FrA==",
+  "dgSpecHash": "DVq3+HByBkqJcgJttbZmLiz8hmR9fNz/KbfbqM+Et3PrN/Z1MUk2lN69dyRlCwdGp3jIW602ScAi3d6i2CyXpQ==",
   "success": true,
-  "projectFilePath": "E:\\VSWork\\LiuForum\\Forum.Domain\\Forum.Domain.csproj",
+  "projectFilePath": "E:\\My VS Work\\LiuForumn\\Forum.Domain\\Forum.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\ecommon\\2.6.4\\ecommon.2.6.4.nupkg.sha512",
-    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\enode\\3.0.2\\enode.3.0.2.nupkg.sha512",
-    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\98092\\.nuget\\packages\\ecommon\\2.6.4\\ecommon.2.6.4.nupkg.sha512",
+    "C:\\Users\\98092\\.nuget\\packages\\enode\\3.0.2\\enode.3.0.2.nupkg.sha512",
+    "C:\\Users\\98092\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\98092\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
