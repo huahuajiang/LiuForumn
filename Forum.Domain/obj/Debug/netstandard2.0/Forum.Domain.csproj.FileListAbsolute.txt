@@ -1,0 +1,4 @@
+E:\VSWork\LiuForum\Forum.Domain\bin\Debug\netstandard2.0\Forum.Infrastructure.dll
+E:\VSWork\LiuForum\Forum.Domain\obj\Debug\netstandard2.0\Forum.Domain.csprojAssemblyReference.cache
+E:\VSWork\LiuForum\Forum.Domain\obj\Debug\netstandard2.0\Forum.Domain.AssemblyInfoInputs.cache
+E:\VSWork\LiuForum\Forum.Domain\obj\Debug\netstandard2.0\Forum.Domain.AssemblyInfo.cs
