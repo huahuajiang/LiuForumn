@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ttMzlx6VqqYPfB0j1Xnzo41kTY7TlnJaqmChsUUDc9KpeDRmcX2vD7PcJoabzzZNTSYkMv+tLnLHfyq78LT7eQ==",
+  "dgSpecHash": "eulv5+pKEcnDlNl45rTRd0MsI6GMkk2cSJHFpSwhQPSSM8H0wNjHBfWAiP2oBZRdjjsO1D/J7oSxS0jO16OtiA==",
   "success": true,
-  "projectFilePath": "E:\\My VS Work\\LiuForumn\\Forum.Commands\\Forum.Commands.csproj",
+  "projectFilePath": "E:\\VSWork\\LiuForumn\\Forum.Commands\\Forum.Commands.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\98092\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\98092\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5ROIzlQScs/sWswO7QsZliNghyUCDS91O9TW4ncOFK1EvXcFhbUHifCS+HONt0MhJY61inKEpqVGvoql09FxqQ==",
+  "dgSpecHash": "V0m4hagdTLQOLlOsO9LXAsRZMu81O3yrJQXrlCjSX1KvTHuPO1a5a8+wQhqpRCBHzpBLrAkDRbGOgbCbQNWzBw==",
   "success": true,
-  "projectFilePath": "E:\\My VS Work\\LiuForumn\\Forum.Denormalizers.Dapper\\Forum.Denormalizers.Dapper.csproj",
+  "projectFilePath": "E:\\VSWork\\LiuForumn\\Forum.Denormalizers.Dapper\\Forum.Denormalizers.Dapper.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\98092\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\98092\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

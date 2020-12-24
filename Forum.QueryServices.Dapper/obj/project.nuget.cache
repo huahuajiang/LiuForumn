@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yymLt5mOWUkXNO6vJ5/0NFOqMEsu3ZP+tdzf0XU3lfBZRqBomGm3ETy7R0eLVjZK/hAg10IobtNSMDAPKm0FOg==",
+  "dgSpecHash": "wrpO8dce/HyavN2JtrqbBuqauzFlgRLqPLsZ5LKDFJ8TebZPVbo1PRbZVCEIXBRJl29Wc+syDW9NAlFvYTMNJg==",
   "success": true,
-  "projectFilePath": "E:\\My VS Work\\LiuForumn\\Forum.QueryServices.Dapper\\Forum.QueryServices.Dapper.csproj",
+  "projectFilePath": "E:\\VSWork\\LiuForumn\\Forum.QueryServices.Dapper\\Forum.QueryServices.Dapper.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\98092\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\98092\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

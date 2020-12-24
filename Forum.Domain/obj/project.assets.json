@@ -67,8 +67,8 @@
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "ecommon.2.6.4.nupkg.sha512",
-        "ecommon.nuspec",
+        "ECommon.2.6.4.nupkg.sha512",
+        "ECommon.nuspec",
         "lib/netstandard2.0/ECommon.dll",
         "lib/netstandard2.0/ECommon.pdb",
         "lib/netstandard2.0/ECommon.xml"
@@ -81,8 +81,8 @@
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "enode.3.0.2.nupkg.sha512",
-        "enode.nuspec",
+        "ENode.3.0.2.nupkg.sha512",
+        "ENode.nuspec",
         "lib/netstandard2.0/ENode.dll",
         "lib/netstandard2.0/ENode.pdb",
         "lib/netstandard2.0/ENode.xml"
@@ -246,19 +246,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\98092\\.nuget\\packages\\": {}
+    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My VS Work\\LiuForumn\\Forum.Domain\\Forum.Domain.csproj",
+      "projectUniqueName": "E:\\VSWork\\LiuForumn\\Forum.Domain\\Forum.Domain.csproj",
       "projectName": "Forum.Domain",
-      "projectPath": "E:\\My VS Work\\LiuForumn\\Forum.Domain\\Forum.Domain.csproj",
-      "packagesPath": "C:\\Users\\98092\\.nuget\\packages\\",
-      "outputPath": "E:\\My VS Work\\LiuForumn\\Forum.Domain\\obj\\",
+      "projectPath": "E:\\VSWork\\LiuForumn\\Forum.Domain\\Forum.Domain.csproj",
+      "packagesPath": "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\",
+      "outputPath": "E:\\VSWork\\LiuForumn\\Forum.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\98092\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LIUJUNHUA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -270,9 +270,10 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "E:\\My VS Work\\LiuForumn\\Forum.Infrastructure\\Forum.Infrastructure.csproj": {
-              "projectPath": "E:\\My VS Work\\LiuForumn\\Forum.Infrastructure\\Forum.Infrastructure.csproj"
+            "E:\\VSWork\\LiuForumn\\Forum.Infrastructure\\Forum.Infrastructure.csproj": {
+              "projectPath": "E:\\VSWork\\LiuForumn\\Forum.Infrastructure\\Forum.Infrastructure.csproj"
             }
           }
         }
@@ -285,6 +286,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "ENode": {
             "target": "Package",
@@ -307,7 +309,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

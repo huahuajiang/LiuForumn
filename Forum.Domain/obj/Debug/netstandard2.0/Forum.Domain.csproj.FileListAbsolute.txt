@@ -7,3 +7,7 @@ E:\My VS Work\LiuForumn\Forum.Domain\bin\Debug\netstandard2.0\Forum.Domain.dll
 E:\My VS Work\LiuForumn\Forum.Domain\obj\Debug\netstandard2.0\Forum.Domain.csprojAssemblyReference.cache
 E:\My VS Work\LiuForumn\Forum.Domain\obj\Debug\netstandard2.0\Forum.Domain.AssemblyInfoInputs.cache
 E:\My VS Work\LiuForumn\Forum.Domain\obj\Debug\netstandard2.0\Forum.Domain.AssemblyInfo.cs
+E:\VSWork\LiuForumn\Forum.Domain\obj\Debug\netstandard2.0\Forum.Domain.csprojAssemblyReference.cache
+E:\VSWork\LiuForumn\Forum.Domain\obj\Debug\netstandard2.0\Forum.Domain.AssemblyInfoInputs.cache
+E:\VSWork\LiuForumn\Forum.Domain\obj\Debug\netstandard2.0\Forum.Domain.AssemblyInfo.cs
+E:\VSWork\LiuForumn\Forum.Domain\obj\Debug\netstandard2.0\Forum.Domain.csproj.CoreCompileInputs.cache
